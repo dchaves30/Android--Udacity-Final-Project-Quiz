@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Jazz Quiz</string>
+    <string name="activity2_name">Score</string>
+
+    <!-- Radio Group for question One/-->
+    <string name="question_one">1 - What musician released the album Kind of Blue?</string>
+    <string name="qOne_ansOne">John Coltrane</string>
+    <string name="qOne_ansTwo">Miles Davis</string>
+    <string name="qOne_ansThree">Cannonball Adderly</string>
+    <string name="qOne_ansFour">Sonny Rollins</string>
+
+    <!-- Radio Group for question Two/-->
+    <string name="question_two">2 - John Contrane is known for his:</string>
+    <string name="qTwo_ansOne">Distinctive Guitar sound</string>
+    <string name="qTwo_ansTwo">Distinctive Ukulele sound</string>
+    <string name="qTwo_ansThree">Distinctive Tenor Sax sound</string>
+    <string name="qTwo_ansFour">Distinctive Sitar sound</string>
+
+    <!-- Radio Group for question Three/-->
+    <string name="question_three">3 - Miles Davis plays the:</string>
+    <string name="qThree_ansOne">Acoustic Guitar</string>
+    <string name="qThree_ansTwo">Alto Saxophone</string>
+    <string name="qThree_ansThree">Tenor Saxophone</string>
+    <string name="qThree_ansFour">Trumpet</string>
+
+    <!-- Radio Group for question Four/-->
+    <string name="question_four">4 - In 1956, Sonny Rollins released what album?</string>
+    <string name="qFour_ansOne">Dysthropia</string>
+    <string name="qFour_ansTwo">Saxophone Colossus</string>
+    <string name="qFour_ansThree">Giant Steps</string>
+    <string name="qFour_ansFour">Mad Dog</string>
+
+    <!-- Radio Group for question Five/-->
+    <string name="question_five">5 - Chet Baker is the composer of what song?</string>
+    <string name="qFive_ansOne">Ole Ola</string>
+    <string name="qFive_ansTwo">My funny Valentine</string>
+    <string name="qFive_ansThree">Black Orpheus</string>
+    <string name="qFive_ansFour">Girl from Ipanema</string>
+
+    <!-- Button String/-->
+    <string name="check_results">Check Results</string>
+
+    <!-- Strings in the second activity showing the results/-->
+    <string name="you_answered">You Answered</string>
+    <string name="correctly">Questions Correctly</string>
+
+</resources>
