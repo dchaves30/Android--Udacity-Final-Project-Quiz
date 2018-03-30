@@ -10,7 +10,6 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     int numberOfCorrectAnswers = 0; //The number of times the user selected the right answer
-    String answerOneText = "";
 
     //UDI message declaration for the second intent
     public static final String EXTRA_MESSAGE = "com.example.android.quiz.extra.MESSAGE";
